@@ -1,0 +1,14 @@
+[
+    {
+        "Nombre": "Heber",
+        "Notas": [
+            12.0,
+            13.0,
+            18.5,
+            14.0
+        ],
+        "Nota maxima": 18.5,
+        "Nota minima": 12.0,
+        "Promedio": 14.38
+    }
+]
